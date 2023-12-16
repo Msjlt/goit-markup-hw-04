@@ -335,7 +335,7 @@ img {
     background-color: #404BBF;
   }
 
-  .social-media .social-link:focus {
+  .social-media .social-link:active {
     background-color: #404BBF;
   }
     
@@ -552,7 +552,7 @@ img {
     background-color: #31D0AA;
   }
 
-  .social-media-footer .social-li :focus {
+  .social-media-footer .social-li :active {
     background-color: #31D0AA;
   }
 
