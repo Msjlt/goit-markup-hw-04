@@ -331,15 +331,15 @@ img {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
   } 
 
-  .social-media .social-link :hover {
+  .social-media .social-link:hover {
     background-color: #404BBF;
   }
 
-  .social-media .social-link :focus {
+  .social-media .social-link:focus {
     background-color: #404BBF;
   }
     
-  .social-media .social-link :active {
+  .social-media .social-link:active {
     background-color: #404BBF;
   }
     
@@ -553,15 +553,17 @@ img {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
 
-  .social-media-footer .test :hover {
+  .social-media-footer .test:hover {
     background-color: #31D0AA;
   }
 
-  .social-media-footer .test :focus {
+
+
+  .social-media-footer .test:focus {
     background-color: #31D0AA;
   }
 
-  .social-media-footer .test :active {
+  .social-media-footer .test:active {
     background-color: #31D0AA;
   }
 
